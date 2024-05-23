@@ -1,0 +1,120 @@
+Cantidad de mensajes en sistema de calidad: 7
+Cantidad de mensajes en sistema de calidad: 17
+Cantidad de mensajes en sistema de calidad: 23
+Cantidad de mensajes en sistema de calidad: 28
+Cantidad de mensajes en sistema de calidad: 31
+Cantidad de mensajes en sistema de calidad: 32
+Cantidad de mensajes en sistema de calidad: 41
+Cantidad de mensajes en sistema de calidad: 50
+Cantidad de mensajes en sistema de calidad: 55
+Cantidad de mensajes en sistema de calidad: 65
+Cantidad de mensajes en sistema de calidad: 68
+Cantidad de mensajes en sistema de calidad: 69
+Cantidad de mensajes en sistema de calidad: 74
+Cantidad de mensajes en sistema de calidad: 79
+Cantidad de mensajes en sistema de calidad: 82
+Cantidad de mensajes en sistema de calidad: 86
+Cantidad de mensajes en sistema de calidad: 93
+Cantidad de mensajes en sistema de calidad: 99
+Cantidad de mensajes en sistema de calidad: 103
+Cantidad de mensajes en sistema de calidad: 106
+Cantidad de mensajes en sistema de calidad: 108
+Cantidad de mensajes en sistema de calidad: 108
+Cantidad de mensajes en sistema de calidad: 113
+Cantidad de mensajes en sistema de calidad: 118
+Cantidad de mensajes en sistema de calidad: 123
+Cantidad de mensajes en sistema de calidad: 127
+Cantidad de mensajes en sistema de calidad: 130
+Cantidad de mensajes en sistema de calidad: 136
+Cantidad de mensajes en sistema de calidad: 140
+Cantidad de mensajes en sistema de calidad: 141
+Cantidad de mensajes en sistema de calidad: 143
+Cantidad de mensajes en sistema de calidad: 147
+Cantidad de mensajes en sistema de calidad: 151
+Cantidad de mensajes en sistema de calidad: 162
+Cantidad de mensajes en sistema de calidad: 168
+Cantidad de mensajes en sistema de calidad: 169
+Cantidad de mensajes en sistema de calidad: 173
+Cantidad de mensajes en sistema de calidad: 180
+Cantidad de mensajes en sistema de calidad: 184
+Cantidad de mensajes en sistema de calidad: 190
+Cantidad de mensajes en sistema de calidad: 193
+Cantidad de mensajes en sistema de calidad: 198
+Cantidad de mensajes en sistema de calidad: 205
+Cantidad de mensajes en sistema de calidad: 209
+Cantidad de mensajes en sistema de calidad: 215
+Cantidad de mensajes en sistema de calidad: 223
+Cantidad de mensajes en sistema de calidad: 231
+Cantidad de mensajes en sistema de calidad: 234
+Cantidad de mensajes en sistema de calidad: 235
+Cantidad de mensajes en sistema de calidad: 238
+Cantidad de mensajes en sistema de calidad: 243
+Cantidad de mensajes en sistema de calidad: 247
+Cantidad de mensajes en sistema de calidad: 252
+Cantidad de mensajes en sistema de calidad: 254
+Cantidad de mensajes en sistema de calidad: 261
+Cantidad de mensajes en sistema de calidad: 270
+Cantidad de mensajes en sistema de calidad: 274
+Cantidad de mensajes en sistema de calidad: 280
+Cantidad de mensajes en sistema de calidad: 283
+Cantidad de mensajes en sistema de calidad: 288
+Cantidad de mensajes en sistema de calidad: 294
+Cantidad de mensajes en sistema de calidad: 296
+Cantidad de mensajes en sistema de calidad: 298
+Cantidad de mensajes en sistema de calidad: 304
+Cantidad de mensajes en sistema de calidad: 309
+Cantidad de mensajes en sistema de calidad: 311
+Cantidad de mensajes en sistema de calidad: 314
+Cantidad de mensajes en sistema de calidad: 322
+Cantidad de mensajes en sistema de calidad: 325
+Cantidad de mensajes en sistema de calidad: 332
+Cantidad de mensajes en sistema de calidad: 334
+Cantidad de mensajes en sistema de calidad: 340
+Cantidad de mensajes en sistema de calidad: 346
+Cantidad de mensajes en sistema de calidad: 350
+Cantidad de mensajes en sistema de calidad: 351
+Cantidad de mensajes en sistema de calidad: 358
+Cantidad de mensajes en sistema de calidad: 369
+Cantidad de mensajes en sistema de calidad: 370
+Cantidad de mensajes en proxy: 101
+Cantidad de mensajes en sistema de calidad: 378
+Cantidad de mensajes en proxy: 175
+Cantidad de mensajes en sistema de calidad: 382
+Cantidad de mensajes en proxy: 214
+Cantidad de mensajes en sistema de calidad: 383
+Cantidad de mensajes en proxy: 272
+Cantidad de mensajes en sistema de calidad: 390
+Cantidad de mensajes en proxy: 347
+Cantidad de mensajes en sistema de calidad: 396
+Cantidad de mensajes en proxy: 371
+Cantidad de mensajes en sistema de calidad: 396
+Cantidad de mensajes en proxy: 416
+Cantidad de mensajes en sistema de calidad: 398
+Cantidad de mensajes en proxy: 491
+Cantidad de mensajes en sistema de calidad: 402
+Cantidad de mensajes en proxy: 550
+Cantidad de mensajes en sistema de calidad: 403
+Cantidad de mensajes en proxy: 608
+Cantidad de mensajes en sistema de calidad: 411
+Cantidad de mensajes en proxy: 683
+Cantidad de mensajes en sistema de calidad: 417
+Cantidad de mensajes en proxy: 727
+Cantidad de mensajes en sistema de calidad: 417
+Cantidad de mensajes en proxy: 778
+Cantidad de mensajes en sistema de calidad: 423
+Cantidad de mensajes en proxy: 853
+Cantidad de mensajes en sistema de calidad: 430
+Cantidad de mensajes en proxy: 923
+Cantidad de mensajes en sistema de calidad: 431
+Cantidad de mensajes en proxy: 988
+Cantidad de mensajes en sistema de calidad: 436
+Cantidad de mensajes en proxy: 1063
+Cantidad de mensajes en sistema de calidad: 442
+Cantidad de mensajes en proxy: 1128
+Cantidad de mensajes en sistema de calidad: 444
+Cantidad de mensajes en proxy: 1171
+Cantidad de mensajes en sistema de calidad: 451
+Cantidad de mensajes en proxy: 1231
+Cantidad de mensajes en sistema de calidad: 456
+Cantidad de mensajes en proxy: 1231
+Cantidad de mensajes en sistema de calidad: 456
